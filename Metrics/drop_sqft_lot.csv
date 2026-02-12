@@ -1,0 +1,7 @@
+Model,Split,R2,Adjusted_R2,MAE,RMSE,MAPE,Comments
+LinearRegression,train,0.6977,0.6973,125995.7272,202892.5873,0.2561,Whithout sqft_lot
+LinearRegression,test,0.716,0.7147,126040.2398,191580.0569,0.2597,Whithout sqft_lot
+RandomForestRegressor,train,0.9821,0.9821,26008.4337,49362.8389,0.0488,Whithout sqft_lot
+RandomForestRegressor,test,0.895,0.8945,67641.5287,116502.1562,0.128,Whithout sqft_lot
+XGBRegressor,train,0.9767,0.9766,39922.926,56358.0278,0.0881,Whithout sqft_lot
+XGBRegressor,test,0.903,0.9026,65580.282,111968.7568,0.1256,Whithout sqft_lot

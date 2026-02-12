@@ -1,0 +1,7 @@
+,Model,Split,R2,Adjusted_R2,MAE,RMSE,MAPE,Comments
+0,LinearRegression,train,0.6977,0.6974,126023.5477,202870.9949,0.2562,Whithout floors
+1,LinearRegression,test,0.716,0.7147,126043.5836,191585.385,0.2597,Whithout floors
+2,RandomForestRegressor,train,0.9822,0.9822,25924.5505,49204.3981,0.0486,Whithout floors
+3,RandomForestRegressor,test,0.8955,0.895,67325.3693,116245.4939,0.1271,Whithout floors
+4,XGBRegressor,train,0.9787,0.9786,38637.7494,53892.6399,0.0862,Whithout floors
+5,XGBRegressor,test,0.9011,0.9007,65982.5049,113036.7934,0.1247,Whithout floors

@@ -1,0 +1,7 @@
+,Model,Split,R2,Adjusted_R2,MAE,RMSE,MAPE,Comments
+0,LinearRegression,train,0.6973,0.6969,126097.584,203019.8769,0.2563,Whithout yr_renovated
+1,LinearRegression,test,0.7158,0.7144,126123.658,191673.0385,0.26,Whithout yr_renovated
+2,RandomForestRegressor,train,0.9819,0.9819,25962.452,49633.6552,0.0487,Whithout yr_renovated
+3,RandomForestRegressor,test,0.8958,0.8953,67255.3388,116066.5787,0.1272,Whithout yr_renovated
+4,XGBRegressor,train,0.9774,0.9774,39451.3132,55430.4617,0.0869,Whithout yr_renovated
+5,XGBRegressor,test,0.8991,0.8986,66615.4646,114219.577,0.1262,Whithout yr_renovated
