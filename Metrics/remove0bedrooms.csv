@@ -1,0 +1,5 @@
+,Model,Split,R2,Adjusted_R2,MAE,RMSE,MAPE,Comments
+0,RandomForestRegressor,train,0.9817,0.9817,25803.9161,48814.4835,0.0483,Whithout Bedrooms = 0
+1,RandomForestRegressor,test,0.8831,0.8825,71361.6477,133369.4522,0.131,Whithout Bedrooms = 0
+2,XGBRegressor,train,0.9771,0.977,39229.8517,54697.7282,0.0873,Whithout Bedrooms = 0
+3,XGBRegressor,test,0.8763,0.8757,69878.8518,137212.3107,0.1282,Whithout Bedrooms = 0
