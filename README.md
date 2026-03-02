@@ -60,3 +60,5 @@ This project successfully improved house price prediction accuracy by ~30% compa
 | **`Metrics/`** | Contains exported performance metrics and model comparison tables. |
 | **`Notebooks/`** | Holds the core analysis files, numbered 1 through 6, covering everything from baseline modeling to final optimization. |
 | **`Presentation`** | A PowerPoint with the presentation of th project |
+## Authors
+Built by me (@alexcardenasgutierrez-droid) together with [@coffeedrunkpanda](https://github.com/coffeedrunkpanda/King-County-Housing-Analysis) and [@sheetansh](https://github.com/sheetansh/IronKaggle_DSML) for the Ironhack bootcamp of Data Science & Machine Learning.
